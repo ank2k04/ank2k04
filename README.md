@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ank2k04
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on 
+- 💞️ Any suggestions/queries for my codes are apppreciated, feel free to drop me a text.
 - 📫 How to reach me -- ankushmeena142@gmail.com
 
 <!---
